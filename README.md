@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Onuchi
 - 👀 I’m interested in Ui/Ux, Forex trading and Software Engineering
-- 🌱 I’m currently learning Software Engineering with ALX
+- 🌱 I’m currently an ALX Certified Software Engineer
 - 💞️ I’m looking to collaborate on any Tech project
 - 📫 How to reach me Trade2uwin@gmail.com
 - 😄 Pronouns: he/him
